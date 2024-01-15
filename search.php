@@ -1,0 +1,1 @@
+<!-- component that will display search results -->
